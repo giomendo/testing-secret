@@ -1,4 +1,5 @@
-# testing-secret
+#testing-secret-giomendo
+
 # RabbitMQ Performance Testing Tool (perf-test)
 
 ## Links
